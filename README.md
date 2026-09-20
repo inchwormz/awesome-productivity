@@ -99,6 +99,10 @@
 - [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 - [Conjure](https://conjure.so) - Habits, goals and time tracking platform with rules engine, data layer, API, dashboards and more (Web, Desktop, iOS, Android).
 
+### AI design
+
+- [iter0] (https://iter0.com) - AI website design
+
 ### Task Automation
 
 - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
